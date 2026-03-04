@@ -6,6 +6,8 @@ package ayudasEclipse; //Declaración del paquete
  */
 
 public class Ayuda1 {
+	
+	//cambio para la práctica de Git
 
 	public static void main(String[] args) {
 		/* DEclaramos una variable
